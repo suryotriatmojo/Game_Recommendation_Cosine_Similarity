@@ -4,6 +4,8 @@
 
 A simple recommendation system using cosine similarity based on genre, platform, and publisher resemblance
 
+I use [game datasets from kaggle](https://www.kaggle.com/rush4ratio/video-game-sales-with-ratings/)
+
 For instance:
 - your favourite game = __*Suikoden*__
 
@@ -17,6 +19,8 @@ For instance:
 Then it will gives top 5 game recommendation which have > 80% similarity with Suikoden
 
 ![Top 5](images/Top_5.png)
+
+You can also find this project in notebook form at [my kernel on kaggle](https://www.kaggle.com/suryotriatmojo/game-recommendation-multiple-features)
 
 Cheers! :beers: :beers:
 
