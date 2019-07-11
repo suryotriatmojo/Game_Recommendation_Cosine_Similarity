@@ -23,13 +23,14 @@ Cheers! :beers: :beers:
 #
 #### About Me: Suryo Tri Atmojo 👨‍🔬👨‍💻
 #### Reach me out 📬 : _atmojo.suryo@gmail.com_
-
+[Kaggle](https://www.kaggle.com/suryotriatmojo)
+|
 [GitHub](https://github.com/suryotriatmojo)
+|
+[LinkedIn](https://www.linkedin.com/in/suryo-tri-atmojo-3ab69a85/)
 |
 [Instagram](https://www.instagram.com/suryotriatmojo/)
 |
 [Facebook](https://www.facebook.com/suryo.t.atmojo)
-|
-[LinkedIn](https://www.linkedin.com/in/suryo-tri-atmojo-3ab69a85/)
 |
 [Twitter](https://twitter.com/suryota)
