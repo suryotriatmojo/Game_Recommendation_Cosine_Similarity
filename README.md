@@ -14,7 +14,7 @@ For instance:
 - Publisher = __*Konami Digital Entertainment*__
 
 
-Then it will gives top 5 game recommendation which has > 80% similarity with Suikoden
+Then it will gives top 5 game recommendation which have > 80% similarity with Suikoden
 
 ![Top 5](images/Top_5.png)
 
